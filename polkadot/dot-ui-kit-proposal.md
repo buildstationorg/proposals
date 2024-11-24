@@ -96,7 +96,7 @@ Define integration points for Polkadot.js API and Passkey.
 ## Resources
 - A team of 4 developers:
   - [ZxStim](https://x.com/zxstim) | [Github](https;//github.com/zxstim)
-  - [Intern](https://x.com/intern_uwu) | [Github](https;//github.com/intern_uwu)
+  - [Intern](https://x.com/intern_uwu) | [Github](https;//github.com/internuwu)
   - [Kayx86](https://x.com/kayx86) | [Github](https;//github.com/kayx86)
   - [SaitamaCode](https://x.com/SaitamaCoder_VN) | [Github]([https;//github.com/kayx86](https://github.com/SaitamaCoderVN))
 
