@@ -93,8 +93,14 @@ Define integration points for Polkadot.js API and Passkey.
 - Build and launch the demo application.
 - Release the UI kit as an open-source project.
 
-## Budget
-$2000 bounty
+## Resources
+- A team of 4 developers:
+  - [ZxStim](https://x.com/zxstim) | [Github](https;//github.com/zxstim)
+  - [Intern](https://x.com/intern_uwu) | [Github](https;//github.com/intern_uwu)
+  - [Kayx86](https://x.com/kayx86) | [Github](https;//github.com/kayx86)
+  - [SaitamaCode](https://x.com/SaitamaCoder_VN) | [Github]([https;//github.com/kayx86](https://github.com/SaitamaCoderVN))
+
+- $2000 bounty for all 4.
 
 ## Conclusion
 This frontend UI kit will revolutionize how developers engage with the Polkadot ecosystem by providing a streamlined, powerful toolkit tailored for Web3 applications. With your support, we can lower development barriers, improve the user experience, and accelerate the growth of Polkadot-based projects worldwide.
